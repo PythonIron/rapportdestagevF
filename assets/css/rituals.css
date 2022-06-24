@@ -1,0 +1,49 @@
+.ritualsTcechCardContainer {
+  margin-top: 9vh;
+  margin-left: 60vh;
+  padding: 2px;
+  width: 70vh;
+  height: 30vh;
+  border-radius: 1vh;
+  background: rgb(255, 255, 255);
+  box-shadow: 21px 21px 100px #5a5a5a, -21px -21px 100px #ffffff;
+}
+.ritualsTcechCardContainer h2 {
+  text-decoration: underline;
+  margin-left: 10px;
+}
+
+.ritualsofdocto {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+}
+.ritualsofdocto h1 {
+  position: absolute;
+  top: 420vh;
+}
+
+.ritualsDoctoCardContainer {
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  width: 100%;
+  padding: 1em;
+  border-radius: 1vh;
+  background: rgb(255, 255, 255);
+  box-shadow: 21px 21px 100px #5a5a5a, -21px -21px 100px #ffffff;
+}
+
+.PM {
+  display: flex;
+  order: 3;
+}
+.dev {
+  display: flex;
+  order: 2;
+}

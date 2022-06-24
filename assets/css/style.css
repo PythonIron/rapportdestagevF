@@ -1,0 +1,28 @@
+.presentationEntreprise {
+  font-size: 2vh;
+  padding: 1em;
+  margin-left: 5vh;
+}
+
+.organigrame {
+  border-radius: 1%;
+  font-size: 2vh;
+  margin-left: 9vh;
+  width: 90%;
+  height: 140vh;
+  background-image: url("../img/Diagramme\ vierge.png");
+  background-position: initial;
+  background-color: #c9c9c9;
+  background-repeat: no-repeat;
+}
+.organigrame h1 {
+  margin-left: 40%;
+}
+
+body ul {
+  list-style-type: decimal;
+}
+.interv {
+  padding: 3em;
+  font-size: 2vh;
+}
